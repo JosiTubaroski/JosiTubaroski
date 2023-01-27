@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on dados
-- 🤔 I’m looking for help with dados
+- 🤔 I’m looking for help with dados and test automation
 - 💬 Ask me about dados and test automation
 
 <h3 align="left">Languages and Tools:</h3>
