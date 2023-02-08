@@ -29,3 +29,10 @@
 <a href="https://www.instagram.com/jojoquoostubaroski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 
 </div>
+
+<div> 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JosiTubaroski&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+</div>
+
