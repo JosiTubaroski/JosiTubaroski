@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/testesGit.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## ✨ Hi there 
 
