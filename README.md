@@ -1,9 +1,17 @@
+
+<p align="center">
+<a href="https://github.com/JosiTubaroski">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi;I+am+DataScience+Student" alt="Typing SVG" />
+</a>
+<br/>
+
 <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/testesGit.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## ✨ Hi there 
+## ✨ Welcome 
 
 - 🔭 I’m currently working on dados
 - 🤔 I’m looking for help with dados and test automation
+- 💡 Open to collaborating on projects and innovative ideas. 
 - 💬 Ask me about dados and test automation
 
 <h3 align="left">Languages and Tools:</h3>
