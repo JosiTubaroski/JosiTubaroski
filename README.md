@@ -4,7 +4,6 @@
 
 <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/Tec_gif.gif" min-width="2000px" max-width="200px" width="200px" align="center" alt="Computador iuriCode">
 
-<p align="center">
 <a href="https://github.com/JosiTubaroski">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=DATA+ANALYST+%7C;+DATA+SCIENCE+%7C;+DATA+ENGINEERING" alt="Typing SVG" />
 
