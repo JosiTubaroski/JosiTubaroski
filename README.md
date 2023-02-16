@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/JosiTubaroski">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=DATA+ANALYST+%7C;+DATA+SCIENCE+%7C;+DATA+ENGINEERING+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=DATA+ANALYST+%7C;+DATA+SCIENCE+%7C;+DATA+ENGINEERING" alt="Typing SVG" />
 
 ## ✨ Welcome 
 
