@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/Tec_gif.gif" min-width="200px" max-width="200px" width="200px" align="center" alt="Computador iuriCode">
+<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/Tec_gif.gif" min-width="2000px" max-width="200px" width="200px" align="center" alt="Computador iuriCode">
 
 <p align="center">
 <a href="https://github.com/JosiTubaroski">
