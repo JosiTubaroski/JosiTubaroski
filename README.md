@@ -1,7 +1,7 @@
 
 
 
-<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/gifs-de-tecnologia-25.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/testesGit.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## ✨ Welcome 
 
