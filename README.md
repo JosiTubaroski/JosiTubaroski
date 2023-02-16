@@ -3,15 +3,15 @@
 
 <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/testesGit.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<a href="https://github.com/JosiTubaroski">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=DATA+ANALYST+%7C;+DATA+SCIENCE+%7C;+DATA+ENGINEERING+%7C" alt="Typing SVG" />
+
 ## ✨ Welcome 
 
 - 🔭 I’m currently working on dados
 - 🤔 I’m looking for help with dados and test automation
 - 💡 Open to collaborating on projects and innovative ideas. 
 - 💬 Ask me about dados and test automation
-
-<a href="https://github.com/JosiTubaroski">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=DATA+ANALYST+%7C;+DATA+SCIENCE+%7C;+DATA+ENGINEERING+%7C" alt="Typing SVG" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
