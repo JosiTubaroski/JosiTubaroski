@@ -2,7 +2,7 @@
 
 
 
-<img src="https://i.pinimg.com/originals/0c/1a/c6/0c1ac6f494242307a90a99a2e10380d5.gif">
+<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/73Gu.gif">
 
 <img src="https://i.pinimg.com/originals/0c/1a/c6/0c1ac6f494242307a90a99a2e10380d5.gif">
 
