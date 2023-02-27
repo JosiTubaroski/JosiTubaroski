@@ -1,13 +1,8 @@
 
-
-
-
-<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/73Gu.gif">
-
-<img src="https://i.pinimg.com/originals/0c/1a/c6/0c1ac6f494242307a90a99a2e10380d5.gif">
+<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/Stronger_Together.JPG">
 
 <a href="https://github.com/JosiTubaroski">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=DATA+ANALYST+%7C;+DATA+SCIENCE+%7C;+DATA+ENGINEERING" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=*+About+:+DATA+ANALYST+%7C;+DATA+SCIENCE+%7C;+DATA+ENGINEERING" alt="Typing SVG" />
 
 ## ✨ Welcome 
 
@@ -42,6 +37,8 @@
 
 </div>
 
+ <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/73Gu.gif">
+
 ## Coding Activity
 
 <br/>
@@ -60,6 +57,14 @@
 <div> 
  
   ![Snake animation](https://github.com/JosiTubaroski/JosiTubaroski/blob/main/github-contribution-grid-snake.svg)
+    
+   
 
 </div>
+    
+<div>
+    
+    
+    
+ </div>   
   
