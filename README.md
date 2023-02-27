@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/Tec_gif.gif" min-width="2000px" max-width="200px" width="200px" align="center" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/0c/1a/c6/0c1ac6f494242307a90a99a2e10380d5.gif" min-width="2000px" max-width="200px" width="200px" align="center" alt="Computador iuriCode">
 
 <a href="https://github.com/JosiTubaroski">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=DATA+ANALYST+%7C;+DATA+SCIENCE+%7C;+DATA+ENGINEERING" alt="Typing SVG" />
