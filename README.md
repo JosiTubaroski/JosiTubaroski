@@ -11,7 +11,7 @@
 - 💡 Open to collaborating on projects and innovative ideas. 
 - 💬 Ask me about dados and test automation
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3> 
     
 <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/Pandinha.JPG">
     
@@ -64,6 +64,8 @@
 <div> 
  
   ![Snake animation](https://github.com/JosiTubaroski/JosiTubaroski/blob/main/github-contribution-grid-snake.svg)
+    
+  [![Github](https://img.shields.io/github/followers/Jositubaroski?label=Follow&style=social)](https://github.com/Jositubaroski)  
     
    
 
