@@ -1,5 +1,5 @@
 
-<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/Stronger_Together.JPG">
+<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/power-BI.jpg">
 
 <a href="https://github.com/JosiTubaroski">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=✨+ABOUT:+DATA+ANALYST+%7C;+DATA+SCIENCE+%7C;+DATA+ENGINEERING" alt="Typing SVG" />
