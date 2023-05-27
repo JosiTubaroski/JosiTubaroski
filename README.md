@@ -34,7 +34,7 @@
   
 <h3 align="left">Contact:</h3>  
     
-<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/73Gu.gif">
+<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/futuristic-cityscape.jpg">
     
 <a href="https://www.linkedin.com/in/jozeliane-josi-quoos-tubaroski-1878a3228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:josiquoos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
