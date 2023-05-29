@@ -36,7 +36,7 @@
     
 <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/futuristic-cityscape.jpg">
     
-<a href="https://www.linkedin.com/in/jozeliane-josi-quoos-tubaroski-1878a3228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jozeliane-josi-quoos-tubaroski-%F0%9F%92%BB-1878a3228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:josiquoos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/jojoquoostubaroski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 
