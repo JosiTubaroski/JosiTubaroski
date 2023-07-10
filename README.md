@@ -31,11 +31,12 @@
   
 
 <div> 
-  
+
+<h3 align="left">Links:</h3>
+<div> 
+Projetos: <a href="https://github.com/JosiTubaroski/Analise_de_Dados">Analise de Dados</a>
+</div>   
 <h3 align="left">Contact:</h3>  
-    
-   
-<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/futuristic-cityscape.jpg">
     
 <a href="https://jositubaroski.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Site-%23AD0C6D?style=for-the-badge&Color=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/%F0%9F%92%BBjozeliane-josi-quoos-tubaroski-1878a3228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
