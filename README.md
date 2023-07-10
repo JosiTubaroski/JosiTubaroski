@@ -11,6 +11,11 @@
 - 💡 Open to collaborating on projects and innovative ideas. 
 - 💬 Ask me about dados and test automation
 
+<h3 align="left">Projetos:</h3>
+<div> 
+<a href="https://github.com/JosiTubaroski/Analise_de_Dados">Analise de Dados</a>
+</div> 
+
 <h3 align="left">Languages and Tools:</h3> 
     
     
@@ -32,10 +37,7 @@
 
 <div> 
 
-<h3 align="left">Links:</h3>
-<div> 
-Projetos: <a href="https://github.com/JosiTubaroski/Analise_de_Dados">Analise de Dados</a>
-</div>   
+  
 <h3 align="left">Contact:</h3>  
     
 <a href="https://jositubaroski.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Site-%23AD0C6D?style=for-the-badge&Color=white" target="_blank"></a>
