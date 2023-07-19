@@ -4,6 +4,10 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+<p align="center">
+  <a href="https://github.com/devlancer-lucas"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;DATA%20ANALYST;DATA%20SCIENCE;Data+ENGINEERING;15%2B%20years%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
 <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/power-BI.jpg">
 
 <a href="https://github.com/JosiTubaroski">
