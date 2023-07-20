@@ -37,6 +37,10 @@
 <p>
 - 💬 Ask me about dados and test automation
 </p>
+<div align="center">
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+</div> 
+
 <h3 align="left">Projects:</h3>
 <div> 
 <a href="https://github.com/JosiTubaroski/Analise_de_Dados">Data Analysis</a>
