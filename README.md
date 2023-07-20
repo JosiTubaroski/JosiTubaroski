@@ -4,6 +4,17 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+<div align="center">
+ 
+ <a href="https://github.com/JosiTubaroski?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devlancer-lucas"/>
+ </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://gist.github.com/JosiTubaroski"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Visitor's Count" /></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/JosiTubaroski?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/JosiTubaroski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</>
+
 <p align="center">
   <a href="https://github.com/devlancer-lucas"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;DATA%20ANALYST;DATA%20SCIENCE;Data+ENGINEERING;15%2B%20years%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -86,7 +97,7 @@
  
   ![Snake animation](https://github.com/JosiTubaroski/JosiTubaroski/blob/main/github-contribution-grid-snake.svg)
     
-  [![Github](https://img.shields.io/github/followers/Jositubaroski?label=Follow&style=social)](https://github.com/Jositubaroski)  
+  
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
     
