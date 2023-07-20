@@ -63,7 +63,7 @@
 
 
 <h3 align="left">
-<h3 align="left"> <a href="https://github.com/JosiTubaroski/Analise_de_Dados"> >>> Data Analysis</a>
+<h3 align="left"> <a font-size: 100px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> ✨ Data Analysis</a>
 </h3>
 </h3>
 
@@ -88,19 +88,7 @@
 
 <div> 
 
-<div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-</div> 
-<h3 align="center">
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
- Contact
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
-</h3>  
-    
-<a href="https://jositubaroski.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Site-%23AD0C6D?style=for-the-badge&Color=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/%F0%9F%92%BBjozeliane-josi-quoos-tubaroski-1878a3228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:josiquoos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/jojoquoostubaroski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+
  
 
 ## Coding Activity
@@ -134,7 +122,20 @@
 <div> 
  
   ![Snake animation](https://github.com/JosiTubaroski/JosiTubaroski/blob/main/github-contribution-grid-snake.svg)
+
+  <div align="center">
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+</div> 
+<h3 align="center">
+ <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
+ Contact
+ <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+</h3>  
     
+<a href="https://jositubaroski.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Site-%23AD0C6D?style=for-the-badge&Color=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/%F0%9F%92%BBjozeliane-josi-quoos-tubaroski-1878a3228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:josiquoos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/jojoquoostubaroski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    
   
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
