@@ -41,10 +41,12 @@
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
 </div> 
 
+<h3 align="center">
 <h3 align="left">Projects:</h3>
 <div> 
 <a href="https://github.com/JosiTubaroski/Analise_de_Dados">Data Analysis</a>
 </div> 
+</h3>
 
 <div align="center">
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
