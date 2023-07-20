@@ -50,8 +50,20 @@
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
 </h3>  
 
-<h3 align="center">
-<h3 align="center"> <a href="https://github.com/JosiTubaroski/Analise_de_Dados">Data Analysis</a>
+<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-power-bi-48.png">
+<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-heat-map-48.png">
+<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-doughnut-chart-48.png">
+<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-combo-chart-48.png">
+<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-vertical-timeline-48.png">
+<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-workflow-48.png">
+
+
+
+
+
+
+<h3 align="left">
+<h3 align="left"> <a href="https://github.com/JosiTubaroski/Analise_de_Dados"> >>> Data Analysis</a>
 </h3>
 </h3>
 
