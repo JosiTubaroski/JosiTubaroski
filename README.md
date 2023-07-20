@@ -39,35 +39,41 @@
 - 💬 Ask me about dados and test automation
 </p>
 
-<div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-</div> 
 
+<br>
+<br>
 </div> 
 
 # Projects
 
-
-<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-power-bi-48.png">
-<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-heat-map-48.png">
-<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-combo-chart-48.png">
-<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-vertical-timeline-48.png">
-<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-workflow-48.png">
-<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-data-migration-48.png">
-<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-investment-portfolio-48.png">
-
-
-
+<div align="center">
 
 <h3 align="left">
 <h3 align="left"> <a font-size: 100px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> ✨ Data Analysis</a>
 </h3>
 </h3>
 
+<p>
+<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-power-bi-48.png">
+<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-heat-map-48.png">
+<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-combo-chart-48.png">
+<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-vertical-timeline-48.png">
+<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-workflow-48.png">
+<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-data-migration-48.png">
+<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-investment-portfolio-48.png">
+</p>
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+</div> 
 
 ## Coding Activity
 
-<br/>
 
 <p align="center">
   
@@ -78,6 +84,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JosiTubaroski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiTubaroski&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 
 
 <h3 align="center">
