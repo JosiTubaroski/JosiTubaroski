@@ -16,7 +16,7 @@
 </>
 
 <p align="center">
-  <a href="https://github.com/devlancer-lucas"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;DATA%20ANALYST;DATA%20SCIENCE;Data+ENGINEERING;15%2B%20years%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/JosiTubaroski"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;DATA%20ANALYST;DATA%20SCIENCE;Data+ENGINEERING;15%2B%20years%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
@@ -102,7 +102,7 @@
 <!-- activity graph heroku-app start -->
 <div align="center">
     <a href="https://github.com/devlancer-lucas">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlancer-lucas&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosiTubaroski&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
     </a>
 </div>
 <!-- activity graph heroku-app end -->
