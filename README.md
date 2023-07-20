@@ -96,6 +96,20 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JosiTubaroski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiTubaroski&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+
+<!-- activity graph heroku-app start -->
+<div align="center">
+    <a href="https://github.com/devlancer-lucas">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlancer-lucas&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    </a>
+</div>
+<!-- activity graph heroku-app end -->
+
+<div align="center">
+ <a href="https://github.com/JosiTubaroski?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=JosiTubaroski&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%""/></a>
+</div>
   
 <div> 
  
