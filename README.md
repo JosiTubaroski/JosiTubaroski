@@ -20,7 +20,6 @@
 </p>
 
 
-
 <div align="left">
  <p>
 ### 👨🏽‍💻 &nbsp;About Me
@@ -45,20 +44,17 @@
 </div> 
 
 </div> 
-<h3 align="center">
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
- Projects
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
-</h3>  
+
+# Projects
+
 
 <img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-power-bi-48.png">
 <img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-heat-map-48.png">
-<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-doughnut-chart-48.png">
 <img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-combo-chart-48.png">
 <img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-vertical-timeline-48.png">
 <img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-workflow-48.png">
-
-
+<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-data-migration-48.png">
+<img align="right" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-investment-portfolio-48.png">
 
 
 
@@ -68,17 +64,6 @@
 </h3>
 </h3>
 
-
-
-
-  
-
-<div> 
-
-
- <div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-</div> 
 
 ## Coding Activity
 
