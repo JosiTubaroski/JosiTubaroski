@@ -19,6 +19,8 @@
   <a href="https://github.com/JosiTubaroski"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;DATA%20ANALYST;DATA%20SCIENCE;Data+ENGINEERING;15%2B%20years%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+<a href="https://play.kotlinlang.org"><img src="./assets/colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
+
 
 
 <div align="left">
