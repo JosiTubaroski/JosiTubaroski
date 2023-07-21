@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<h3 align="left"> ✨ Data Analysis: <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> https://github.com/JosiTubaroski/Analise_de_Dados </a>
+<h3 align="left">✨ Data Analysis: <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> https://github.com/JosiTubaroski/Analise_de_Dados </a>
 
 </h3>
 
