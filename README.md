@@ -44,7 +44,7 @@
 <br>
 </div> 
 
-# Projects
+# Projects and content about:
 
 <div align="center">
 
