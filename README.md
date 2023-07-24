@@ -48,28 +48,25 @@
 
 <div align="center">
 
-<h3 align="left">✨ Data Analysis: <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> https://github.com/JosiTubaroski/Analise_de_Dados </a>
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> ✨ Data Analysis: </a>
 
 </h3>
 
-<p>
-<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-power-bi-48.png">
-<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-heat-map-48.png">
-<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-combo-chart-48.png">
-<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-vertical-timeline-48.png">
-<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-workflow-48.png">
-<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-data-migration-48.png">
-<img align="left" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-investment-portfolio-48.png">
-</p>
+
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-power-bi-48.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-combo-chart-48.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-vertical-timeline-48.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-workflow-48.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-data-migration-48.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-investment-portfolio-48.png">
+
 
 </div>
 
 <br>
 <br>
 
-<div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-</div> 
+
 
 ## Coding Activity
 
@@ -116,6 +113,9 @@
  
   ![Snake animation](https://github.com/JosiTubaroski/JosiTubaroski/blob/main/github-contribution-grid-snake.svg)
 
+<div align="center">
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+</div> 
 
 </div> 
 <h3 align="center">
