@@ -54,8 +54,11 @@
 
 
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-power-bi-48.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-combo-chart-48.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-vertical-timeline-48.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/icons8-arquivo-python-100.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/icons8-cloud-computing-64.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/icons8-json-64.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/icons8-sql-64.png">
+
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-workflow-48.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-data-migration-48.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-investment-portfolio-48.png">
