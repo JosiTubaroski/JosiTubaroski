@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> ✨ Test: </a>
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> ✨ Test: </a>
 
 </h3>
 
