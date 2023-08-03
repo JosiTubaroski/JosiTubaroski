@@ -53,7 +53,7 @@
 </h3>
 
 
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/icons8-power-bi-48.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/icons8-power-bi-64.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/icons8-arquivo-python-100.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/icons8-cloud-computing-64.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/icons8-json-64.png">
@@ -74,6 +74,9 @@
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-teste-64%20(1).png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-teste-64%20(2).png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-teste-64.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-logo-java-coffee-cup-64.png">
+
+
 
 
 
