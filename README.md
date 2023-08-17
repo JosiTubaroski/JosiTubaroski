@@ -78,6 +78,16 @@
 
 <div align="center">
 
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Machine Learning: </a>
+
+</h3>
+
+<div align="center">
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+</div> 
+
+<div align="center">
+
 <h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Projects and content about Test: </a>
 
 </h3>
