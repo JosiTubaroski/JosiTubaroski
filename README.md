@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Machine Learning: </a>
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/DataScience"> Machine Learning: </a>
 
 </h3>
 
