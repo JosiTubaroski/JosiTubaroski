@@ -80,7 +80,13 @@
 
 <h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/DataScience"> Machine Learning: </a>
 
+
+
+
+
 </h3>
+
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-machine-learning-48.png">
 
 <div align="center">
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
