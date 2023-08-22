@@ -108,6 +108,15 @@
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-selenium-webdriver-64.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-postman-api-64.png">
 
+<div align="center">
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+</div> 
+
+<div align="center">
+
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Sites: </a>
+
+</h3>
 
 
 
