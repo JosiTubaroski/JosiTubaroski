@@ -113,7 +113,7 @@
 
 <div align="center">
 
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites"> Sites </a>
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites"> Sites (HTML / CSS / JavaScript) </a>
 
 </h3>
 
