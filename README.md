@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> Projects and content about Data: </a>
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> Projects and content about Data </a>
 
 </h3>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/DataScience"> Data Science: </a>
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/DataScience"> Data Science </a>
 
 
 
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Projects and content about Test: </a>
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Projects and content about Test </a>
 
 </h3>
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-teste-64%20(1).png">
@@ -114,7 +114,7 @@
 
 <div align="center">
 
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites"> Sites: </a>
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites"> Sites </a>
 
 </h3>
 
