@@ -118,7 +118,7 @@
 
 </h3>
 
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-teste-64%20(1).png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Sites/blob/main/Icons/icons8-javascript-50.png">
 
 <br>
 <br>
