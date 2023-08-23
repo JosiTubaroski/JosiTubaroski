@@ -59,7 +59,7 @@
 </h3>
 
 
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-power-bi-64.png">
+
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-arquivo-python-100.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-cloud-computing-64.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-json-64.png">
@@ -106,7 +106,6 @@
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-teste-64.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-logo-java-coffee-cup-64.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-selenium-webdriver-64.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-postman-api-64.png">
 
 <div align="center">
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
