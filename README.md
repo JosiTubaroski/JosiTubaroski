@@ -72,9 +72,8 @@
 </div>
 <br>
 
-<div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-</div> 
+#
+
 
 <div align="center">
 
@@ -91,10 +90,7 @@
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-intelligence-48.png">
 
 
-
-<div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-</div> 
+#
 
 <div align="center">
 
