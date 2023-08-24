@@ -22,7 +22,7 @@
 
 <div align="left">
  <p>
-### 👨🏽‍💻 &nbsp;About Me
+ 👨🏽‍💻 &nbsp; <b>About Me</b>
  </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/power-BI.jpg">
 
@@ -126,7 +126,9 @@
 <br>
 <br>
 
-
+<div align="center">
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+</div> 
 
 ## Coding Activity
 
