@@ -126,7 +126,7 @@
 
 <div align="center">
 
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites"> Development (Python, NodeJS) </a>
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Development"> Development (Python, NodeJS) </a>
 
 </h3>
 
