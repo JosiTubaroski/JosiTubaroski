@@ -120,6 +120,17 @@
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Sites/blob/main/Icons/icons8-javascript-64.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Sites/blob/main/Icons/icons8-programming-48.png">
 
+<div align="center">
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+</div> 
+
+<div align="center">
+
+<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites"> Development (Python, NodeJS) </a>
+
+</h3>
+
+
 <br>
 <br>
 
