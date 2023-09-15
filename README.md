@@ -97,11 +97,11 @@
 <h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Projects and content about Test </a>
 
 </h3>
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-teste-64%20(1).png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-teste-64%20(2).png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-teste-64.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-logo-java-coffee-cup-64.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/icons8-selenium-webdriver-64.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-teste-64%20(1).png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-teste-64%20(2).png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-teste-64.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-logo-java-coffee-cup-64.png">
+<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-selenium-webdriver-64.png">
 
 #
 
