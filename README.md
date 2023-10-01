@@ -46,87 +46,55 @@
 
 
 
-<h3 align="center">
+<h3 align="left">
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
- Tech & Tools
+I'm currently working on creating content that covers data analysis and data science, as well as development and testing topics.
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
 </h3>  
 
-#
+<div align="center" style="witdh:100%"> 
+ <table>
+  <tr>
+   <td valign="center" width="100px"><b>Data Analysis<b></td>
+   <td valign="center" width="100px"><b>Data science<b></td>
+   <td valign="center" width="100px"><b>Development<b></td>
+   <td valign="center" width="100px"><b>Software Testing<b></td> 
+  </tr>
+  <tr>
+   <td valign="center" align="center" width="400px">
+    <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> Link for Data Analysis </a></br>
+   
+  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-analytics-64.png">   
+  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-json-64.png">
+  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-sql-64.png">
+  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-jupyter-48.png">
+  </td>    
+   <td valign="center" align="center" width="400px">
+    <a font-size: 50px; href="https://github.com/JosiTubaroski/DataScience"> Link for Data Science </a></br>
+   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-machine-learning-48.png">
+   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-intelligence-48.png">
+   </td>
+   
+   <td valign="center" align="center" width="400px">
+    <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites"> HTML/CSS/JavaScript </a></br>
+    <a font-size: 50px; href="https://github.com/JosiTubaroski/Development"> Development (Python, Node.JS) </a></br>
 
-<div align="left">
-
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> Projects and content about Data </a>
-
-</h3>
-
-
-
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-jupyter-48.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-cloud-computing-64.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-json-64.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-sql-64.png">
-
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-analytics-64.png">
-
-
-
-</div>
-<br>
-
-#
-
-
-<div align="center">
-
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/DataScience"> Data Science </a>
-
-
-
-
-
-</h3>
-
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-machine-learning-48.png">
-
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-intelligence-48.png">
-
-
-#
-
-<div align="center">
-
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Projects and content about Test </a>
-
-</h3>
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-teste-64%20(1).png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-teste-64%20(2).png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-teste-64.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-logo-java-coffee-cup-64.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-selenium-webdriver-64.png">
-
-#
-
-<div align="center">
-
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites"> Sites (HTML / CSS / JavaScript) </a>
-
-</h3>
-
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Sites/blob/main/Icons/icons8-javascript-64.png">
+  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Sites/blob/main/Icons/icons8-javascript-64.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Sites/blob/main/Icons/icons8-programming-48.png">
-
-#
-
-<div align="center">
-
-<h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Development"> Development (Python, Node.JS) </a>
-
-</h3>
-
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-arquivo-python-100.png">
-<br>
-<br>
+    
+
+   </td>
+   <td valign="center" align="center" width="400px">
+    <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Software Testing </a></br> 
+   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-teste-64%20(2).png">
+   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-teste-64.png">
+   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-logo-java-coffee-cup-64.png">
+   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-selenium-webdriver-64.png">
+   </td>
+  </tr>
+ </table/>
+</div/>
 
 <div align="center">
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
