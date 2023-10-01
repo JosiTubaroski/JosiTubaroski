@@ -44,7 +44,7 @@
 <br>
 </div> 
 
-### Studying in this moment:
+
 
 <h3 align="center">
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
