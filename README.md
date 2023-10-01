@@ -65,7 +65,6 @@ I'm currently working on creating content that covers data analysis and data sci
     <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> Link for Data Analysis </a></br>
    
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-analytics-64.png">   
-  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-json-64.png">
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-sql-64.png">
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-jupyter-48.png">
   </td>    
@@ -88,7 +87,6 @@ I'm currently working on creating content that covers data analysis and data sci
    <td valign="center" align="center" width="400px">
     <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Software Testing </a></br> 
    <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-teste-64%20(2).png">
-   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-teste-64.png">
    <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-logo-java-coffee-cup-64.png">
    <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-selenium-webdriver-64.png">
    </td>
