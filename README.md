@@ -44,6 +44,8 @@
 <br>
 </div> 
 
+### Studying in this moment:
+
 <h3 align="center">
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
  Tech & Tools
@@ -52,7 +54,7 @@
 
 #
 
-<div align="center">
+<div align="left">
 
 <h3 align="center"> <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> Projects and content about Data </a>
 
