@@ -124,6 +124,7 @@ I'm currently working on creating content that covers data analysis and data sci
 
 
 <!-- activity graph heroku-app start -->
+<!-- 
 <div align="center">
     <a href="https://github.com/JosiTubaroski">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosiTubaroski&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
@@ -134,7 +135,8 @@ I'm currently working on creating content that covers data analysis and data sci
 <div align="center">
  <a href="https://github.com/JosiTubaroski?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=JosiTubaroski&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%""/></a>
 </div>
-  
+
+ 
 <div> 
  
   ![Snake animation](https://github.com/JosiTubaroski/JosiTubaroski/blob/main/github-contribution-grid-snake.svg)
