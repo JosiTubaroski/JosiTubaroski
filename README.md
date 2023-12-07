@@ -7,7 +7,7 @@
 <div align="center">
  
  <a href="https://github.com/JosiTubaroski?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devlancer-lucas"/>
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jositubaroski"/>
  </a>
  &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://gist.github.com/JosiTubaroski"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Visitor's Count" /></a>
