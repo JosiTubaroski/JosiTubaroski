@@ -63,14 +63,14 @@ I'm currently working on creating content that covers data analysis and data sci
 <div align="center" style="witdh:100%"> 
  <table>
   <tr>
-   <td valign="center" width="100px"><b>Data Analysis<b></td>
+   <td valign="center" width="100px"><b>Data Engineering/Data Analysis<b></td>
    <td valign="center" width="100px"><b>Data science<b></td>
    <td valign="center" width="100px"><b>Development<b></td>
    <td valign="center" width="100px"><b>Software Testing<b></td> 
   </tr>
   <tr>
    <td valign="center" align="center" width="400px">
-    <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> Link for Data Analysis </a></br>
+    <a font-size: 50px; href="https://github.com/JosiTubaroski/Analise_de_Dados"> Link for Data Engineering and Data Analysis </a></br>
    
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-analytics-64.png">   
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-sql-64.png">
