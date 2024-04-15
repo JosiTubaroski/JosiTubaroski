@@ -84,7 +84,7 @@ I'm currently working on creating content that covers data analysis and data sci
    
    <td valign="center" align="center" width="400px">
     <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites"> HTML/CSS/JavaScript </a></br>
-    <a font-size: 50px; href="https://github.com/JosiTubaroski/Development"> Development (Python, Node.JS) </a></br>
+    <a font-size: 50px; href="https://github.com/JosiTubaroski/Development"> Development </a></br>
 
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Sites/blob/main/Icons/icons8-javascript-64.png">
 <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Sites/blob/main/Icons/icons8-programming-48.png">
