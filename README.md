@@ -167,6 +167,8 @@ I'm currently working on creating content that covers data analysis and data sci
   
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
+
+  https://github.com/JosiTubaroski/00_Sircoi_Principal
     
    
 
