@@ -141,7 +141,9 @@ I'm currently working on creating content that covers data analysis and data sci
  
   ![Snake animation](https://github.com/JosiTubaroski/JosiTubaroski/blob/main/github-contribution-grid-snake.svg)
 
-  <img align="center" alt="Coding" width="400" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/Teste_Imagem.GIF">
+  <img align="center" alt="Coding" width="400" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Dados06.png">
+
+
 
 <div align="center">
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
