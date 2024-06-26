@@ -158,25 +158,39 @@ I'm currently working on creating content that covers data analysis and data sci
 </div> 
 <h3 align="center">
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
- Contact
+Connect with me:
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
 </h3>  
 
 
-    
-<a href="https://jositubaroski.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Site-%23AD0C6D?style=for-the-badge&Color=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jozeliane-josi-quoos-tubaroski-1878a3228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:josiquoos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/dados.jojoquoos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    
-<a href="https://www.youtube.com/@Umacuriosaqualquer" target="_blank"><img src="https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white%22%20target=%22_blank" target="_blank"></a>
+ <div align="center">
+    <table>
+        <tr>
+            <td>
+                <a href="https://www.linkedin.com/in/jozeliane-josi-quoos-tubaroski-1878a3228/" target="blank">
+                    <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="60">
+                </a>
+            </td>
+            <td >
+                <a href="mailto:josiquoos@gmail.com" target="_blank">
+                    <img align="center" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo" height="50" width="50">
+                </a>
+            </td>
+            <td >
+                <a href="https://www.instagram.com/dados.jojoquoos/" target="blank">
+                    <img align="center" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50">
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
 
 
 
   
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
-
-  https://github.com/JosiTubaroski/00_Sircoi_Principal
     
    
 
