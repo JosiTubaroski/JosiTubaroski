@@ -12,8 +12,8 @@
  &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://gist.github.com/JosiTubaroski"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Visitor's Count" /></a>
  &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/JosiTubaroski?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/JosiTubaroski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</>
+
+
 
 <p align="center">
   <a href="https://github.com/JosiTubaroski"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;DATA%20ANALYST;DATA%20SCIENCE;Data+ENGINEERING;15%2B%20years%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
