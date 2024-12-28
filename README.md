@@ -107,14 +107,6 @@ I'm currently working on creating content that covers data analysis and data sci
 
 <img align="center" alt="Coding" width="400" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Big_Data.png">
 
-
-
-
-
-<div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-</div> 
-
 ## Coding Activity
 
 
@@ -141,9 +133,6 @@ I'm currently working on creating content that covers data analysis and data sci
 </div>
 <!-- activity graph heroku-app end -->
 
-<div align="center">
- <a href="https://github.com/JosiTubaroski?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=JosiTubaroski&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%""/></a>
-</div>
 
  
 <div> 
