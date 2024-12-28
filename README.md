@@ -105,7 +105,11 @@ I'm currently working on creating content that covers data analysis and data sci
  </table/>
 </div/>
 
-<img align="center" alt="Coding" width="400" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Ferramentas_Dados.png">
+<img align="center" alt="Coding" width="400" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Big_Data.png">
+
+
+
+https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Ferramentas_Dados.png
 
 <div align="center">
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
