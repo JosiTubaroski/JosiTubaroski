@@ -80,6 +80,9 @@ I'm currently working on creating content that covers data analysis and data sci
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-intelligence-48.png">
    <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/apache-spark-icon.png">
    <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-mongo-db-64.png">
+   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-docker-a-set-of-coupled-software-as-a-service-24.png">
+
+   
    
    
   </td>    
