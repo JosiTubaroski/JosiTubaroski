@@ -65,8 +65,7 @@ I'm currently working on creating content that covers data analysis and data sci
 <div align="center" style="witdh:100%"> 
  <table>
   <tr>
-   <td valign="center" width="100px"><b>Data Engineering/Data Analysis<b></td>
-   <td valign="center" width="100px"><b>Data science<b></td>
+   <td valign="center" width="100px"><b>Data<b></td>
    <td valign="center" width="100px"><b>Development<b></td>
    <td valign="center" width="100px"><b>Software Testing<b></td> 
   </tr>
