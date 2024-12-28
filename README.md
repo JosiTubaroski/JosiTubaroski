@@ -112,6 +112,9 @@ I'm currently working on creating content that covers data analysis and data sci
 
 <img align="center" alt="Coding" width="400" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/Apache_Airflow_Architecture.png">
 
+<img align="center" alt="Coding" width="400" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/Kubernets.png">
+
+
 
 
 ## Coding Activity
