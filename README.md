@@ -77,12 +77,10 @@ I'm currently working on creating content that covers data analysis and data sci
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-analytics-64.png">   
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-sql-64.png">
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-jupyter-48.png">
-  </td>    
-   <td valign="center" align="center" width="400px">
-    <a font-size: 50px; href="https://github.com/JosiTubaroski/DataScience"> Link for Data Science </a></br>
-   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-machine-learning-48.png">
+  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-machine-learning-48.png">
    <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-intelligence-48.png">
-   </td>
+  </td>    
+
    
    <td valign="center" align="center" width="400px">
     <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites"> HTML/CSS/JavaScript </a></br>
