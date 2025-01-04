@@ -71,7 +71,7 @@ I'm currently working on creating content that covers data analysis and data sci
   </tr>
   <tr>
    <td valign="center" align="center" width="400px">
-    <a font-size: 50px; href="https://github.com/JosiTubaroski/Principal_Data/blob/main/README.md"> Link for Data </a></br>
+    <a font-size: 50px; href="https://github.com/JosiTubaroski/Principal_Data/blob/main/README.md" target="_blank" rel="noopener noreferrer"> Link for Data </a></br>
    
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/hadoop.png">   
   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-sql-64.png">
