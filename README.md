@@ -181,7 +181,7 @@ Connect with me:
                 </a>
             </td>
             <td >
-                <a href="https://www.instagram.com/dados.jojoquoos/" target="blank">
+                <a href="https://www.instagram.com/josidataworks/" target="blank">
                     <img align="center" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50">
                 </a>
             </td>
