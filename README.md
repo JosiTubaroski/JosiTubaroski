@@ -72,14 +72,7 @@ I'm currently working on creating content that covers data analysis and data sci
   <tr>
    <td valign="center" align="center" width="400px">
     <a font-size: 50px; href="https://github.com/JosiTubaroski/Principal_Data/blob/main/README.md" target="_blank" rel="noopener noreferrer"> Link for Data </a></br>
-   
-  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/hadoop.png">   
-  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-sql-64.png">
-  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-jupyter-48.png">
-  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-machine-learning-48.png">
-  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/DataScience/blob/main/icons8-intelligence-48.png">
-   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/apache-spark-icon.png">
-   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-mongo-db-64.png">
+ 
    
 
    
@@ -92,17 +85,12 @@ I'm currently working on creating content that covers data analysis and data sci
     <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites/blob/main/README.md"> HTML/CSS/JavaScript </a></br>
     <a font-size: 50px; href="https://github.com/JosiTubaroski/Development"> Development </a></br>
 
-  <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Sites/blob/main/Icons/icons8-javascript-64.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Sites/blob/main/Icons/icons8-programming-48.png">
-<img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Icones/icons8-arquivo-python-100.png">
+
     
 
    </td>
    <td valign="center" align="center" width="400px">
     <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Software Testing </a></br> 
-   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-teste-64%20(2).png">
-   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-logo-java-coffee-cup-64.png">
-   <img align="center" alt="Coding" width="50" src="https://github.com/JosiTubaroski/Test_QA/blob/main/img/icons8-selenium-webdriver-64.png">
    </td>
   </tr>
  </table/>
