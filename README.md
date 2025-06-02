@@ -112,6 +112,7 @@ I'm currently working on creating content that covers data analysis and data sci
 <div align="center">
   <a href="https://github.com/JosiTubaroski">
 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JosiTubaroski&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiTubaroski&layout=compact&theme=dracula&hide_border=true&langs_count=15"/>
 </div>  
     
@@ -218,22 +219,14 @@ Connect with me:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosiTubaroski&repo=SQL-Server-Developer_ProgramacaoTotalStoredProcedure&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="StoredProcedure">
       </a>
     </td>
-    <td>
-      <a href="https://github.com/marichu-kt/SecureBank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=SecureBank&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250602" alt="SecureBank">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/marichu-kt/Hercules-SETUP-Utility">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=Hercules-SETUP-Utility&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Hercules-SETUP-Utility">
-      </a>
-    </td>
     <td align="center" valign="middle">
       <strong style="color:#b0e0e6; font-size: 20px;">🚧 Coming Soon!!! 🚧</strong>
     </td>
   </tr>
+
+
+    
+  
 </table>
 
 
