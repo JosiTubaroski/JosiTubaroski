@@ -207,8 +207,8 @@ Connect with me:
       </a>
     </td>
     <td>
-      <a href="https://github.com/marichu-kt/GitHub-Unfollowed">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=GitHub-Unfollowed&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250602" alt="GitHub-Unfollowed">
+      <a href="https://github.com/JosiTubaroski/Java-Selenium-Webdriver">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosiTubaroski&repo=Java-Selenium-Webdriver&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Java-Selenium-Webdriver">
       </a>
     </td>
   </tr>
