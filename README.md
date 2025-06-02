@@ -195,8 +195,8 @@ Connect with me:
       </a>
     </td>
     <td>
-      <a href="https://github.com/marichu-kt/Slot-Machine-CSharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=Slot-Machine-CSharp&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250602" alt="Slot-Machine-CSharp">
+      <a href="https://github.com/JosiTubaroski/Jupyter_Relatorios_Matplotlib">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosiTubaroski&repo=Jupyter_Relatorios_Matplotlib&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Jupyter_Relatorios_Matplotlib">
       </a>
     </td>
   </tr>
