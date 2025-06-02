@@ -155,7 +155,7 @@ Connect with me:
     <table>
         <tr>
             <td>
-                <a href="https://www.linkedin.com/in/jozeliane-josi-quoos-tubaroski-1878a3228/" target="blank">
+                <a href="https://www.linkedin.com/in/josiquoos/" target="blank">
                     <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="60">
                 </a>
             </td>
