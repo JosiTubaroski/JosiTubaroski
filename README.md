@@ -202,8 +202,8 @@ Connect with me:
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/marichu-kt/QR-Generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=QR-Generator&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250602" alt="QR-Generator">
+      <a href="https://github.com/JosiTubaroski/Bootstrap">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosiTubaroski&repo=Bootstrap&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Bootstrap">
       </a>
     </td>
     <td>
