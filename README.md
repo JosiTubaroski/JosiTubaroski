@@ -112,7 +112,7 @@ I'm currently working on creating content that covers data analysis and data sci
 <div align="center">
   <a href="https://github.com/JosiTubaroski">
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiTubaroski&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiTubaroski&layout=compact&theme=dracula&hide_border=true&langs_count=15"/>
 </div>  
     
 
