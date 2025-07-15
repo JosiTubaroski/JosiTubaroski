@@ -73,6 +73,7 @@ I'm currently working on creating content that covers data analysis and data sci
    <td valign="center" align="center" width="400px">
     <a font-size: 50px; href="https://github.com/JosiTubaroski/Principal_Data/blob/main/README.md" target="_blank" rel="noopener noreferrer"> Link for Data </a></br>
     <a font-size: 50px; href="https://github.com/JosiTubaroski/Sircoi_Geral/blob/main/README.md" target="_blank" rel="noopener noreferrer"> PLD Projects – Access Restricted </a></br>
+     <a font-size: 50px; href="https://github.com/JosiTubaroski/Sircoi_Geral/blob/main/README.md" target="_blank" rel="noopener noreferrer"> PLD Clients – Access Restricted </a></br>
  
 
 
