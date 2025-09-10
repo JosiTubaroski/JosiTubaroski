@@ -102,7 +102,7 @@ I'm currently working on creating content that covers data analysis and data sci
 
 
 
-## Coding Activity
+## 🛠 Coding Activity
 
 
 <p align="center">
